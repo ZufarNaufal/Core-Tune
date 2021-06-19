@@ -1,5 +1,5 @@
 # core_tune
-
+<p align="center"><img src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" width="200"></p>
 A new Flutter project.
 
 ## Getting Started
