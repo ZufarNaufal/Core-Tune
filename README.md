@@ -2,15 +2,7 @@
 <p align="center"><img src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" width="200"></p>
 A new Flutter project.
 
-## Getting Started
+## Preview Project
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/34432992/122646997-47f6ac00-d14c-11eb-8196-aa2bfb5f6bd6.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
