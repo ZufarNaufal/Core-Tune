@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329261454319",
+    "project_id": "core-tune",
+    "storage_bucket": "core-tune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329261454319:android:caaa95af8c2d6ba4db5c1a",
+        "android_client_info": {
+          "package_name": "com.example.core_tune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329261454319-qtv1pfumtvbqf4uvt8is8c7oq95409p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCW7VmLmV0Jx02yJ-E1Zx5ZSjPbbpne90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329261454319-qtv1pfumtvbqf4uvt8is8c7oq95409p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
